@@ -2,6 +2,19 @@
 
 A secure and production-ready **Expense Tracker REST API** built with **FastAPI**, **SQLAlchemy**, and **PostgreSQL**. The API provides JWT-based authentication, user-specific transaction management, filtering, validation, and automated testing with Pytest.
 
+---
+
+## 🌐 Live Demo
+
+The Expense Tracker API is deployed and available online:
+
+**Live API:** [https://expense-tracker-api-32tc.onrender.com](https://your-render-url.onrender.com)
+
+**API Documentation:** [Swagger UI](https://expense-tracker-api-32tc.onrender.com/docs)
+
+
+
+
 ## 🚀 Features
 
 - 🔐 JWT authentication
